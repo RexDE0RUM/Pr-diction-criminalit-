@@ -1,4 +1,4 @@
-# Pr-diction-criminalit-
+# Prédiction criminalité
 TIPE qui vise à prédire les lieux avec des plus gros risques de criminalité, en se basant sur des données de crimes déjà commis.
 
   Ce projet vise à modéliser la dynamique spatio-temporelle de la criminalité à l’aide d’un modèle mathématique de type réaction-diffusion inspiré des travaux de Short et al. (2010). L’objectif est de comprendre comment les criminels se déplacent dans l’espace, comment les zones à risque, appelées hotspots, apparaissent, évoluent ou disparaissent au fil du temps et quelles interactions existent entre l’attractivité d’un lieu et la densité de criminalité locale.
